@@ -1,0 +1,17 @@
+*.local
+bashrc.local
+zshrc.local
+
+.ssh/id_*
+.ssh/known_hosts
+.aws/credentials
+.netrc
+.env
+*.pem
+*.key
+wp
+*.swp
+*.swo
+
+.DS_Store
+Thumbs.db
